@@ -1,0 +1,4 @@
+certifi==2021.10.8
+colorama==0.4.4
+pathlib==1.0.1
+wincertstore==0.2
